@@ -4,7 +4,7 @@
 *you have been captured by the iconic fictional psychopath whose infamous for countless of grusome murders beyond imagination!
 
 # OBJECTIVE
-Challenge S.A.F.E in a game of Connect Four. Win and you will be set free, lose and you will be one less man in exixtence!!
+Challenge S.A.F.E in a game of Connect Four. Win and you will be set free, lose and you will be one less man in existence!!
 
 
 
