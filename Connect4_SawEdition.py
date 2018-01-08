@@ -1,6 +1,10 @@
 import sys
 import random
 
+with open('WallofSurvivers.txt', 'w') as f:
+    read_data = f.read()
+    f.closed
+
 
 print ("     *Billy*\n==================")
 print ("I want to play a game. As you can see, there is a automated contraption with metal spikes attached to your head.")
